@@ -1,0 +1,10 @@
+{
+    "nombre": "Juan Pérez",
+    "edad": 30,
+    "correo": "jperez@example.com",
+    "direccion": {
+        "calle": "Calle Falsa 123",
+        "ciudad": "Ciudad de México",
+        "pais": "México"
+    }
+}

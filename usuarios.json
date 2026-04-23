@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Juan Pérez",
+        "edad": 30,
+        "correo": "jperes@example.com",
+        "direccion": {
+            "calle": "Calle Falsa 123",
+            "ciudad": "Ciudad de México",
+            "pais": "México"
+        }
+    },
+    {
+        "nombre": "María López",
+        "edad": 25,
+        "correo": "mlopez@example.com",
+        "direccion": {
+            "calle": "Avenida Siempreviva 742",
+            "ciudad": "Springfield",
+            "pais": "Estados Unidos"
+        }
+    },
+    {
+        "nombre": "Carlos García",
+        "edad": 28,
+        "correo": "cgarcia@example.com",
+        "direccion": {
+            "calle": "Calle Principal 456",
+            "ciudad": "Madrid",
+            "pais": "España"
+        }
+    }
+]
